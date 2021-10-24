@@ -1,0 +1,28 @@
+{
+  "name": "employee-tracker2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trswork/Employee-Tracker2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trswork/Employee-Tracker2/issues"
+  },
+  "homepage": "https://github.com/trswork/Employee-Tracker2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
